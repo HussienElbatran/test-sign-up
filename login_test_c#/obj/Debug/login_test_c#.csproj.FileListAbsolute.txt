@@ -1,0 +1,13 @@
+D:\login_test_c#\login_test_c#\bin\Debug\login_test.mdf
+D:\login_test_c#\login_test_c#\bin\Debug\_log.ldf
+D:\login_test_c#\login_test_c#\bin\Debug\login_test_c#.exe.config
+D:\login_test_c#\login_test_c#\bin\Debug\login_test_c#.exe
+D:\login_test_c#\login_test_c#\bin\Debug\login_test_c#.pdb
+D:\login_test_c#\login_test_c#\obj\Debug\login_test_c#.csproj.AssemblyReference.cache
+D:\login_test_c#\login_test_c#\obj\Debug\login_test_c_.Form1.resources
+D:\login_test_c#\login_test_c#\obj\Debug\login_test_c_.Properties.Resources.resources
+D:\login_test_c#\login_test_c#\obj\Debug\login_test_c#.csproj.GenerateResource.cache
+D:\login_test_c#\login_test_c#\obj\Debug\login_test_c#.csproj.CoreCompileInputs.cache
+D:\login_test_c#\login_test_c#\obj\Debug\login_test_c#.exe
+D:\login_test_c#\login_test_c#\obj\Debug\login_test_c#.pdb
+D:\login_test_c#\login_test_c#\bin\Debug\login_test_log.ldf
